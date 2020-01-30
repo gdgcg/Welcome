@@ -1,3 +1,4 @@
+![GDG](images/gdg_background.png)
 # Boas Vindas ao GDG Campina Grande
 
 Seja bem vindo ao GDG Campina Grande!  
